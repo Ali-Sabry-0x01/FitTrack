@@ -1,5 +1,4 @@
 # FitTrack - Gym Workout Logger
-#### Video Demo:  <https://youtu.be/DmOy7hYQdZw>
 
 #### Description:
 FitTrack is a comprehensive, web-based application designed specifically for athletes, bodybuilders, and fitness enthusiasts to seamlessly track their daily workout routines, monitor their consistency, and log their training splits. Built entirely from scratch as my final project for Harvard's CS50x course, this application utilizes Python and the Flask framework for the backend logic, SQLite for robust database management, and a combination of HTML, CSS, and Bootstrap for a responsive, dark-themed user interface that is easy on the eyes.
